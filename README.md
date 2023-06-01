@@ -1,4 +1,4 @@
-[![MasterHead](https://img.freepik.com/premium-vector/frontend-development-web-banner-concept-website-interface_277904-4191.jpg?w=2000)]
+![MasterHead](https://img.freepik.com/premium-vector/frontend-development-web-banner-concept-website-interface_277904-4191.jpg?w=2000)
 <h1 align="center">Hi 👋, I'm Destiny Adebayo</h1>
 <h3 align="center">A passionate frontend developer from Nigeria</h3>
 <img
